@@ -9,7 +9,7 @@ Welcome to the **Compiler Design Lab *Educational Aid!*** This repo contains a c
 2. **Conversion from Regular Expression to NFA** | - [*PsuedoCode/Algo*](#)  
    - [C](#) | [C++](#) | [Python](#) | [Clojure](#) | [Interactive Guide](#)  
 3. **Conversion from NFA to DFA** | - [*PsuedoCode/Algo*](#) 
-   - [C](#) | [C++](#) | [Python](#) | [Clojure](#) | [Interactive Guide](#)  
+   - [C](src/nfa_to_dfa/c_implemenation/) | [C++](#) | [Python](#) | [Clojure](#) | [Interactive Guide](#)  
 4. **Elimination of Left Recursion and Left Factoring**  
    - [C](#) | [C++](#) | [Python](#) | [Clojure](#) | [Interactive Guide](#)  
 5. **Computation of FIRST AND FOLLOW**  
