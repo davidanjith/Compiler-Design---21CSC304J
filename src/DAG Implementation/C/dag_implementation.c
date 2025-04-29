@@ -48,6 +48,8 @@ Node* find_existing_node(char op, Node* left, Node* right) {
     return NULL;
 }
 
+Node* find_operand_node(char* id);
+
 void build_dag(struct Quadruple quads[], int n) {
     for (int i = 0; i < n; i++) {
         Node* left = find_operand_node(quads[i].arg1);
